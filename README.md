@@ -18,7 +18,7 @@ Usage
 Clone the repository:
 bash
 Copy code
-git clone https://github.com/Rathika02/Autoencoder-ANN.git
+git clone https://github.com/Rathika02/Autoencoder-ANN-.git
 Navigate to the project directory:
 bash
 Copy code
